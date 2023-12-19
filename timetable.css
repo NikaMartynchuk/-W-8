@@ -1,0 +1,41 @@
+.yellow{
+    background-color: yellow;
+}
+
+.green{
+    color: darkgreen;
+}
+
+li:first-child{
+    color: blueviolet;
+}
+
+a:visited{
+  color: rgb(219, 19, 19);
+  font-weight: bold;
+}
+
+li:nth-of-type(3) {
+    color: green;
+}
+
+li:nth-last-child(1){
+color:aqua
+}
+
+
+li:nth-last-of-type(1){
+    color:blue;
+}
+
+a:hover{
+    color: rgb(216, 183, 112);
+}
+
+li:nth-child(odd){
+color: darkblue;
+}
+
+li:nth-child(even){
+    color: rgb(30, 71, 26);
+    }
