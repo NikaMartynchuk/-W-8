@@ -14,6 +14,6 @@ p:nth-of-type(3) {
     color: green;
 }
 
-li:only-child {
+.red {
     color: red;
 }
